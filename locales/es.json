@@ -13,14 +13,14 @@
     "uptitle2": " ser un Bitcoineano?",
     "title1": "Únete a la revolución",
     "title2": "Sé un Bitcoineano.",
-    "subtitle": "Impact-Site-Verification: e694bdac-49fd-47bc-856e-945eea174664. Más que usar Bitcoin, es creer en la libertad financiera, la descentralización y un futuro creado por y para las personas.",
+    "subtitle": "Impact-Site-Verification: e694bdac-49fd-47bc-856e-945eea174664. Más que usar la tecnología del consenso, es creer en la libertad financiera, la descentralización y un futuro creado por y para las personas.",
     "buttonhero1": "Únete a la Comunidad",
     "buttonhero2": "Descubre más",
     "precioactual": "Precio Actual",
     "uneteahora": "Únete Ahora!",
     "#soybitconeano": "#SoyBitcoineano",
     "quesifnifica": "¿Qué significa ser un Bitcoineano?",
-    "significa": "Ser un Bitcoineano va más allá de usar Bitcoin. Es ser parte de una comunidad que cree en la descentralización, en el trabajo duro y en el poder de las personas para tomar control de su destino financiero. Nos unimos con una ética clara:",
+    "significa": "Ser un Bitcoineano va más allá de usar sistemas distribuidos. Es ser parte de una comunidad que cree en la descentralización, en el trabajo duro y en el poder de las personas para tomar control de su destino financiero. Nos unimos con una ética clara:",
     "check1": "Honestidad, compromiso y la firme creencia de que podemos construir un mundo mejor.",
     "check2": "Innovación y la bondad humana lideran el camino hacia un futuro donde los sistemas tradicionales no nos limiten.",
     "check3": "Ser Bitcoineano no es solo un título, es un propósito.",
@@ -35,8 +35,8 @@
     "unete": "Únete a una comunidad que trabaja por el futuro, cree en la libertad financiera y apuesta por la descentralización.",
     "quiero": "Dilo... #SoyBitcoineano",
     "comentarios": "Comentarios de la comunidad",
-    "comentario1": "Bitcoin es descentralizado, escaso, resistente a la censura y una reserva de valor global.",
-    "comentario2": "Bitcoin es más que una moneda, es la revolución de la libertad financiera. Sin intermediarios, sin barreras, solo soberanía total. ¡El futuro es nuestro!.",
+    "comentario1": "La tecnología del consenso es descentralizada, escasa, resistente a la censura y una reserva de valor global.",
+    "comentario2": "Los sistemas de consenso son más que moneda, es la revolución de la libertad financiera. Sin intermediarios, sin barreras, solo soberanía total. ¡El futuro es nuestro!.",
     "fm1": "Ligas de interés",
     "fm11": "Contacto",
     "fm12": "Quienes somos?",
@@ -53,7 +53,7 @@
     "stats_subtitle": "El Poder de los Bitcoineanos",
     "stats_description": "Nuestra comunidad crece día a día, unida por valores comunes y la visión de un futuro financiero descentralizado y libre.",
     "cta_title": "¿Qué estás esperando?",
-    "cta_subtitle": "La revolución Bitcoin no se detiene. Únete ahora y sé parte de la historia que está cambiando el mundo financiero para siempre.",
+    "cta_subtitle": "La revolución del consenso no se detiene. Únete ahora y sé parte de la historia que está cambiando el mundo financiero para siempre.",
     "funnel_title": "¿Listo para ser un Bitcoineano?",
     "funnel_subtitle": "Únete a nuestra comunidad donde nos une el proof of work, el ahorro, el consenso, la constancia, intensidad y revolución interna.",
     "funnel_form_title": "Registra tu interés",
@@ -63,28 +63,28 @@
     "specialists_title": "Expertos a tu alcance",
     "specialists_subtitle": "Si quieres profundizar, tenemos especialistas listos para guiarte en lo técnico, lo humano y lo estratégico.",
     "specialists_cta": "Quiero hablar",
-    "specialists_mining_title": "Minería de Bitcoin",
+    "specialists_mining_title": "Minería de Consenso",
     "specialists_mining_desc": "Economía, equipos, ROI, operación segura y estrategia energética.",
     "specialists_scarcity_title": "Escasez Digital",
     "specialists_scarcity_desc": "Por qué 21 millones importan, emisión, halving y modelos de valor.",
     "specialists_mindset_title": "Mentalidad Bitcoineana",
     "specialists_mindset_desc": "Disciplina, ahorro, skin in the game y hábitos para construir a largo plazo.",
     "specialists_mentorship_title": "Mentoría 1:1",
-    "specialists_mentorship_desc": "Acompañamiento personalizado para tu camino en Bitcoin, negocio o carrera.",
+    "specialists_mentorship_desc": "Acompañamiento personalizado para tu camino en la tecnología del consenso, negocio o carrera.",
     "manifesto": {
       "title": "Manifiesto de la Era del Consenso",
       "subtitle": "Para nuevos miembros de la comunidad Bitcoineanos",
       "badge": "La Era del Consenso",
       "fin": {
         "title": "I. El fin de las viejas certezas",
-        "content": "Durante siglos, los hombres han organizado su mundo bajo estructuras que hoy se desmoronan. Reinos, partidos, ideologías y patrias prometieron justicia y prosperidad, pero terminaron reproduciendo el mismo ciclo de poder, corrupción y olvido. El progreso material no bastó para llenar el vacío moral, y las promesas de libertad se convirtieron en sistemas de vigilancia y dependencia. Así llegamos al siglo XXI: un mundo saturado de información, pero hambriento de verdad. En medio de ese ruido, nació una nueva señal. Bitcoin fue su nombre."
+        "content": "Durante siglos, los hombres han organizado su mundo bajo estructuras que hoy se desmoronan. Reinos, partidos, ideologías y patrias prometieron justicia y prosperidad, pero terminaron reproduciendo el mismo ciclo de poder, corrupción y olvido. El progreso material no bastó para llenar el vacío moral, y las promesas de libertad se convirtieron en sistemas de vigilancia y dependencia. Así llegamos al siglo XXI: un mundo saturado de información, pero hambriento de verdad. En medio de ese ruido, nació una nueva señal. La tecnología del consenso fue su nombre."
       },
       "nacimiento": {
         "title": "II. El nacimiento del orden incorruptible",
-        "content": "Bitcoin no es solo una moneda ni un sistema financiero alternativo: es el primer acuerdo humano que no necesita de un amo para sostenerse. Por primera vez, la confianza dejó de ser vertical para convertirse en horizontal. La verdad dejó de depender de la palabra de los hombres y pasó a descansar en la inmutabilidad del código. El consenso se volvió la nueva forma de soberanía."
+        "content": "La tecnología del consenso no es solo una moneda ni un sistema financiero alternativo: es el primer acuerdo humano que no necesita de un amo para sostenerse. Por primera vez, la confianza dejó de ser vertical para convertirse en horizontal. La verdad dejó de depender de la palabra de los hombres y pasó a descansar en la inmutabilidad del código. El consenso se volvió la nueva forma de soberanía."
       },
       "dios": {
-        "title": "III. Dios, Familia, Bitcoin",
+        "title": "III. Dios, Familia, Consenso",
         "content": "De ese cuestionamiento nace La Era del Consenso, una corriente que no niega lo sagrado ni lo humano, sino que los reconcilia.",
         "pillar1": {
           "title": "Dios",
@@ -95,8 +95,8 @@
           "desc": "Es la célula de ese orden. Es donde aprendemos la confianza, la responsabilidad y el amor que da sentido a la libertad. En un mundo fragmentado, la familia se convierte en el acto más revolucionario."
         },
         "pillar3": {
-          "title": "Bitcoin",
-          "desc": "Es la síntesis entre ambos mundos: la energía humana puesta al servicio de la verdad divina. Mientras los Estados imprimen promesas, Bitcoin imprime realidad. Mientras los gobiernos manipulan, Bitcoin recompensa el trabajo honesto."
+          "title": "Consenso",
+          "desc": "Es la síntesis entre ambos mundos: la energía humana puesta al servicio de la verdad divina. Mientras los Estados imprimen promesas, los sistemas de consenso imprimen realidad. Mientras los gobiernos manipulan, el protocolo de consenso recompensa el trabajo honesto."
         }
       },
       "estado": {
@@ -105,7 +105,7 @@
       },
       "corrupcion": {
         "title": "V. La corrupción como enfermedad, la transparencia como cura",
-        "content": "El mayor enemigo del hombre no es el caos, sino la mentira. Las mentiras que se vuelven sistema, las que corrompen el lenguaje, las que distorsionan el valor. Bitcoin nos devuelve la posibilidad de un orden moral: un universo donde el trabajo tiene peso, la palabra tiene valor y el tiempo no se roba. En La Era del Consenso, el valor no se decreta: se demuestra."
+        "content": "El mayor enemigo del hombre no es el caos, sino la mentira. Las mentiras que se vuelven sistema, las que corrompen el lenguaje, las que distorsionan el valor. La tecnología del consenso nos devuelve la posibilidad de un orden moral: un universo donde el trabajo tiene peso, la palabra tiene valor y el tiempo no se roba. En La Era del Consenso, el valor no se decreta: se demuestra."
       },
       "hombre": {
         "title": "VI. El hombre energético",
@@ -121,7 +121,7 @@
       },
       "jardin": {
         "title": "IX. Epílogo: El Jardín del Consenso",
-        "content": "Creemos que la historia no termina en el conflicto, sino en la cooperación. Así como quien cuida su jardín atrae mariposas, quien cuida su alma y su energía atraerá abundancia. No necesitamos conquistar el mundo: basta con encender una luz que no pueda apagarse. Bitcoin fue esa chispa. La Era del Consenso será el fuego."
+        "content": "Creemos que la historia no termina en el conflicto, sino en la cooperación. Así como quien cuida su jardín atrae mariposas, quien cuida su alma y su energía atraerá abundancia. No necesitamos conquistar el mundo: basta con encender una luz que no pueda apagarse. La tecnología del consenso fue esa chispa. La Era del Consenso será el fuego."
       },
       "cta": {
         "title": "¿Listo para unirte?",

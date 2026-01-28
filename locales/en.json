@@ -13,14 +13,14 @@
   "uptitle2": "to be a Bitcoiner?",
   "title1": "Join to the Revolution",
   "title2": "Be a Bitcointer.",
-  "subtitle": "Impact-Site-Verification: 139d086d-3cda-4e31-99dd-33f121929926. More than just using Bitcoin, it is about believing in financial freedom, decentralization and a future created by and for people.",
+  "subtitle": "Impact-Site-Verification: 139d086d-3cda-4e31-99dd-33f121929926. More than just using consensus technology, it is about believing in financial freedom, decentralization and a future created by and for people.",
   "buttonhero1": "Join the Community",
   "buttonhero2": "Discover more",
   "precioactual": "Actual Price",
   "uneteahora": "Join Now!",
   "#soybitconeano": "#ImABitcoiner",
   "quesifnifica": "What does it mean to be a Bitcoiner?",
-  "significa": "Being a Bitcoiner goes beyond using Bitcoin. It's about being part of a community that believes in decentralization, hard work, and the power of individuals to take control of their financial destiny. We unite with a clear ethic:",
+  "significa": "Being a Bitcoiner goes beyond using distributed systems. It's about being part of a community that believes in decentralization, hard work, and the power of individuals to take control of their financial destiny. We unite with a clear ethic:",
   "check1": "Honesty, commitment, and the firm belief that we can build a better world.",
   "check2": "Innovation and human kindness lead the way to a future where traditional systems do not limit us.",
   "check3": "Being a Bitcoiner is not just a title, it's a purpose.",
@@ -35,8 +35,8 @@
   "unete": "Join a community that works for the future, believes in financial freedom, and bets on decentralization.",
   "quiero": "Say it... #ImABitcoiner",
   "comentarios": "Community Comments",
-  "comentario1": "Bitcoin is decentralized, scarce, censorship-resistant, and a global store of value.",
-  "comentario2": "Bitcoin is more than a currency, it's the revolution of financial freedom. No intermediaries, no barriers, just total sovereignty. The future is ours!",
+  "comentario1": "Consensus technology is decentralized, scarce, censorship-resistant, and a global store of value.",
+  "comentario2": "Consensus systems are more than currency, it's the revolution of financial freedom. No intermediaries, no barriers, just total sovereignty. The future is ours!",
   "fm1": "Links of Interest",
   "fm11": "Contacto",
   "fm12": "About Us",
@@ -53,7 +53,7 @@
   "stats_subtitle": "The Power of Bitcoiners",
   "stats_description": "Our community grows day by day, united by common values and the vision of a decentralized and free financial future.",
   "cta_title": "What are you waiting for?",
-  "cta_subtitle": "The Bitcoin revolution doesn't stop. Join now and be part of the history that is changing the financial world forever.",
+  "cta_subtitle": "The consensus revolution doesn't stop. Join now and be part of the history that is changing the financial world forever.",
   "funnel_title": "Ready to be a Bitcoiner?",
   "funnel_subtitle": "Join our community where we are united by proof of work, savings, consensus, consistency, intensity and internal revolution.",
   "funnel_form_title": "Register your interest",
@@ -63,28 +63,28 @@
   "specialists_title": "Experts at your service",
   "specialists_subtitle": "If you want to go deeper, we have specialists ready to guide you on the technical, human and strategic fronts.",
   "specialists_cta": "Talk to a specialist",
-  "specialists_mining_title": "Bitcoin Mining",
+  "specialists_mining_title": "Consensus Mining",
   "specialists_mining_desc": "Economics, hardware, ROI, secure operation and energy strategy.",
   "specialists_scarcity_title": "Digital Scarcity",
   "specialists_scarcity_desc": "Why 21 million matters, issuance, halving and value models.",
   "specialists_mindset_title": "Bitcoinean Mindset",
   "specialists_mindset_desc": "Discipline, savings, skin in the game and long-term habits.",
   "specialists_mentorship_title": "1:1 Mentorship",
-  "specialists_mentorship_desc": "Personalized guidance for your Bitcoin journey, business or career.",
+  "specialists_mentorship_desc": "Personalized guidance for your journey with consensus technology, business or career.",
   "manifesto": {
     "title": "Manifesto of the Age of Consensus",
     "subtitle": "For new members of the Bitcoineanos community",
     "badge": "The Age of Consensus",
     "fin": {
       "title": "I. The End of Old Certainties",
-      "content": "For centuries, men have organized their world under structures that are now crumbling. Kingdoms, parties, ideologies, and homelands promised justice and prosperity, but ended up reproducing the same cycle of power, corruption, and oblivion. Material progress was not enough to fill the moral void, and promises of freedom became systems of surveillance and dependence. Thus we arrived at the 21st century: a world saturated with information, but hungry for truth. In the midst of that noise, a new signal was born. Bitcoin was its name."
+      "content": "For centuries, men have organized their world under structures that are now crumbling. Kingdoms, parties, ideologies, and homelands promised justice and prosperity, but ended up reproducing the same cycle of power, corruption, and oblivion. Material progress was not enough to fill the moral void, and promises of freedom became systems of surveillance and dependence. Thus we arrived at the 21st century: a world saturated with information, but hungry for truth. In the midst of that noise, a new signal was born. Consensus technology was its name."
     },
     "nacimiento": {
       "title": "II. The Birth of the Incorruptible Order",
-      "content": "Bitcoin is not just a currency or an alternative financial system: it is the first human agreement that does not need a master to sustain itself. For the first time, trust ceased to be vertical and became horizontal. Truth no longer depended on the word of men and came to rest on the immutability of code. Consensus became the new form of sovereignty."
+      "content": "Consensus technology is not just a currency or an alternative financial system: it is the first human agreement that does not need a master to sustain itself. For the first time, trust ceased to be vertical and became horizontal. Truth no longer depended on the word of men and came to rest on the immutability of code. Consensus became the new form of sovereignty."
     },
     "dios": {
-      "title": "III. God, Family, Bitcoin",
+      "title": "III. God, Family, Consensus",
       "content": "From this questioning arises The Age of Consensus, a current that does not deny the sacred or the human, but reconciles them.",
       "pillar1": {
         "title": "God",
@@ -95,8 +95,8 @@
         "desc": "It is the cell of that order. It is where we learn trust, responsibility, and love that gives meaning to freedom. In a fragmented world, the family becomes the most revolutionary act."
       },
       "pillar3": {
-        "title": "Bitcoin",
-        "desc": "It is the synthesis between both worlds: human energy put at the service of divine truth. While States print promises, Bitcoin prints reality. While governments manipulate, Bitcoin rewards honest work."
+        "title": "Consensus",
+        "desc": "It is the synthesis between both worlds: human energy put at the service of divine truth. While States print promises, consensus systems print reality. While governments manipulate, the consensus protocol rewards honest work."
       }
     },
     "estado": {
@@ -105,7 +105,7 @@
     },
     "corrupcion": {
       "title": "V. Corruption as Disease, Transparency as Cure",
-      "content": "Man's greatest enemy is not chaos, but lies. The lies that become system, those that corrupt language, those that distort value. Bitcoin returns to us the possibility of a moral order: a universe where work has weight, words have value, and time is not stolen. In The Age of Consensus, value is not decreed: it is demonstrated."
+      "content": "Man's greatest enemy is not chaos, but lies. The lies that become system, those that corrupt language, those that distort value. Consensus technology returns to us the possibility of a moral order: a universe where work has weight, words have value, and time is not stolen. In The Age of Consensus, value is not decreed: it is demonstrated."
     },
     "hombre": {
       "title": "VI. The Energetic Man",
@@ -121,7 +121,7 @@
     },
     "jardin": {
       "title": "IX. Epilogue: The Garden of Consensus",
-      "content": "We believe that history does not end in conflict, but in cooperation. Just as whoever tends their garden attracts butterflies, whoever tends their soul and energy will attract abundance. We do not need to conquer the world: it is enough to light a light that cannot be extinguished. Bitcoin was that spark. The Age of Consensus will be the fire."
+      "content": "We believe that history does not end in conflict, but in cooperation. Just as whoever tends their garden attracts butterflies, whoever tends their soul and energy will attract abundance. We do not need to conquer the world: it is enough to light a light that cannot be extinguished. Consensus technology was that spark. The Age of Consensus will be the fire."
     },
     "cta": {
       "title": "Ready to join?",
