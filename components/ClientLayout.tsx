@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import ContactModal from "@/components/ContactModal";
-import {Navbar} from "@/components/navbar";
+import { Navbar } from "@/components/navbar";
 import { ContactModalContext } from "@/components/ModalContext";
+import { FloatingWhatsApp } from "@/components/floating-whatsapp";
 
 export default function ClientLayout({ children }: { children: React.ReactNode }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -12,6 +13,7 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
     <ContactModalContext.Provider value={{ open: () => setIsModalOpen(true), close: () => setIsModalOpen(false) }}>
       <Navbar openModal={() => setIsModalOpen(true)} />
       {children}
+      <FloatingWhatsApp />
       {isModalOpen && <ContactModal closeModal={() => setIsModalOpen(false)} />}
     </ContactModalContext.Provider>
   );

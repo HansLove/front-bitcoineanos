@@ -1,10 +1,15 @@
 "use client"
-import { Fade, Slide } from 'react-awesome-reveal'
+
+import { Fade, Slide } from "react-awesome-reveal"
 import { useTranslations } from "next-intl"
-import Link from 'next/link'
-import { Button } from '@/components/ui/button'
+import Link from "next/link"
+import { Button } from "@/components/ui/button"
+import { useLocale } from "next-intl"
+
+const TELEGRAM_URL = "https://t.me/el_consenso"
 
 export function Manifesto() {
+  const locale = useLocale()
   const t = useTranslations("manifesto")
 
   const sections = [
@@ -136,12 +141,12 @@ export function Manifesto() {
                 {t("cta.subtitle")}
               </p>
               <div className="flex flex-wrap justify-center gap-4">
-                <Link href="#lead-funnel">
+                <Link href={`/${locale}#join-consensus`}>
                   <Button className="bg-orange-500 hover:bg-orange-600 text-white px-8">
                     {t("cta.button1")}
                   </Button>
                 </Link>
-                <Link href={`https://t.me/+DBo_c8QjRDcwNDYx`} target="_blank">
+                <Link href={TELEGRAM_URL} target="_blank" rel="noopener noreferrer">
                   <Button variant="outline" className="border-orange-500/50 text-white hover:bg-orange-500/10 px-8">
                     {t("cta.button2")}
                   </Button>

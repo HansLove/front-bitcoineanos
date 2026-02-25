@@ -47,6 +47,7 @@ body {
     --radius: 0.5rem;
   }
   .dark {
+    --gold: 43 74% 50%;
     --background: 0 0% 3.9%;
     --foreground: 0 0% 98%;
     --card: 0 0% 3.9%;

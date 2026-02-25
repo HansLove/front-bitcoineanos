@@ -9,6 +9,94 @@
     "sebitconeano": "#ImABitcoiner",
     "mensaje": "Message 🚀"
   },
+  "hero": {
+    "headline": "We Are The Consensus.",
+    "subtitle": "Bitcoin is not speculation. It is energy, sovereignty, and long-term conviction.",
+    "ctaPrimary": "Join the Community",
+    "ctaSecondary": "Start with Bitcoin",
+    "ctaTertiary": "Talk to Us"
+  },
+  "manifestoShort": {
+    "title": "The Manifesto",
+    "line1": "We don't chase noise.",
+    "line2": "We don't worship volatility.",
+    "line3": "We don't beg for permission.",
+    "line4": "We accumulate conviction.",
+    "line5": "We build infrastructure.",
+    "line6": "We mine energy into sovereignty.",
+    "line7": "Bitcoin is not a trade.",
+    "line8": "It is a long-term alignment with truth.",
+    "line9": "This is El Consenso.",
+    "readFull": "Read full manifesto"
+  },
+  "founder": {
+    "title": "Aaron Tolentino",
+    "tagline": "Founded on Infrastructure, Not Hype.",
+    "intro": "Bitcoineanos was founded by Aaron Tolentino — entrepreneur, infrastructure builder, and Bitcoin advocate.",
+    "linkText": "aarontolentino.com",
+    "whileOthers": "While others talk about price, we build systems:",
+    "bullet1": "Bitcoin mining initiatives",
+    "bullet2": "Energy-backed infrastructure",
+    "bullet3": "Community-driven growth",
+    "bullet4": "Strategic capital deployment",
+    "mission": "The mission is simple:",
+    "missionEnd": "Build conviction through action."
+  },
+  "mining": {
+    "title": "We Don't Just Talk About Bitcoin. We Mine It.",
+    "intro": "Through our mining initiatives and energy infrastructure, we participate directly in the Bitcoin network using Spoon.",
+    "introLink": "Spoon",
+    "miningNotSpec": "Mining is not speculation.",
+    "proofOfWork": "It is proof of work.",
+    "commitment": "It is commitment.",
+    "ecosystem": "Our ecosystem includes:",
+    "bullet1": "Micro-mining participation",
+    "bullet2": "Energy-backed hash allocation",
+    "bullet3": "Infrastructure development",
+    "bullet4": "Education & onboarding",
+    "closing": "Bitcoin is secured by energy. We align with that energy.",
+    "cta": "Learn About Mining"
+  },
+  "newToBitcoin": {
+    "title": "New to Bitcoin?",
+    "step1Title": "Create an exchange account",
+    "step1Desc": "We guide you through secure setup",
+    "step2Title": "Buy Bitcoin via spot market",
+    "step2Desc": "Not derivatives. Real Bitcoin.",
+    "step3Title": "Join the Community",
+    "step3Desc": "Telegram / WhatsApp",
+    "cta": "Start Now"
+  },
+  "africa": {
+    "title": "Building Across Continents.",
+    "intro": "Bitcoineanos is expanding through Africa and Latin America.",
+    "focus": "We focus on:",
+    "bullet1": "Education",
+    "bullet2": "Energy infrastructure",
+    "bullet3": "Community leadership",
+    "bullet4": "Strategic onboarding",
+    "closing": "Bitcoin belongs everywhere."
+  },
+  "joinConsensus": {
+    "title": "This Is Not a Trading Group.",
+    "intro": "This is a network of long-term thinkers.",
+    "line1": "We don't promise quick profits.",
+    "line2": "We build resilience.",
+    "line3": "We don't speculate.",
+    "line4": "We accumulate.",
+    "closing": "If you believe in sovereignty, you belong here.",
+    "ctaTelegram": "Join Telegram",
+    "ctaWhatsApp": "Message on WhatsApp"
+  },
+  "footer": {
+    "manifesto": "Manifesto",
+    "mining": "Mining",
+    "founder": "Founder",
+    "contact": "Contact",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp",
+    "copy": "Copyright © 2024 Bitcoineanos. All rights reserved."
+  },
   "uptitle1": "What does it mean ",
   "uptitle2": "to be a Bitcoiner?",
   "title1": "Join to the Revolution",
@@ -72,6 +160,7 @@
   "specialists_mentorship_title": "1:1 Mentorship",
   "specialists_mentorship_desc": "Personalized guidance for your journey with consensus technology, business or career.",
   "manifesto": {
+    "backToHome": "Back to home",
     "title": "Manifesto of the Age of Consensus",
     "subtitle": "For new members of the Bitcoineanos community",
     "badge": "The Age of Consensus",
